@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Player Characters/Josh's Character.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Josh's Character"
             }
           }
         ]
@@ -31,10 +31,14 @@
             "id": "1379f382c0b63211",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Player Characters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Player Characters"
             }
           }
         ]
@@ -110,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Player Characters/Josh's Character.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Josh's Character"
             }
           },
           {
@@ -129,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Player Characters/Josh's Character.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Josh's Character"
             }
           },
           {
@@ -172,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Player Characters/Josh's Character.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Josh's Character"
             }
           }
         ]
@@ -201,6 +205,9 @@
   },
   "active": "e600675e50f37d00",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Player Characters/Abby's Character.md",
+    "Player Characters/Josh's Character.md",
+    "Player Characters.md",
+    "Player Characters"
   ]
 }
