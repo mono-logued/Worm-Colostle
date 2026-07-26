@@ -3,4 +3,4 @@
 
 
 [Abby's Character](<Abby's Character.md>)
-[Josh's Character](<Josh's Character.md>)
+[Ti Tsen](<Ti Tsen.md>)
