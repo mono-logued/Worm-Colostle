@@ -6,9 +6,9 @@
 	- Four of clubs  vs two of spades
 	- Jack of clubs vs seven of spades
 - Two of clubs
-Nine of hearts
+[Nine of hearts](<Hermit's Skull>)
 Six of spades
-Four of hearts:
+[Four of hearts](<The Hermit>):
 - Queen of clubs
 Five of hearts:
 - Three of diamonds

@@ -6,7 +6,50 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "NPCs",
+      "color": {
+        "a": 1,
+        "rgb": 7120774
+      }
+    },
+    {
+      "query": "PC",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "Places",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "JJournal",
+      "color": {
+        "a": 1,
+        "rgb": 16770533
+      }
+    },
+    {
+      "query": "AJournal",
+      "color": {
+        "a": 1,
+        "rgb": 13891820
+      }
+    },
+    {
+      "query": "Rooks",
+      "color": {
+        "a": 1,
+        "rgb": 3621704
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +60,6 @@
   "repelStrength": 19.1666666666667,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224422,
+  "scale": 0.7132754626224442,
   "close": false
 }

@@ -11,10 +11,14 @@
             "id": "e600675e50f37d00",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Player Characters.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Player Characters"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#JJournal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,14 +185,17 @@
   },
   "active": "e600675e50f37d00",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "Rooks/Queen of Hearts, Seven of Diamonds.md",
-    "Josh Journals/Josh - Session 1.md",
-    "Player Characters/Abby's Character.md",
-    "Player Characters/Ti Tsen.md",
-    "Places/Balistraria.md",
-    "Balastraria.md",
     "Player Characters.md",
+    "Player Characters/Ti Tsen.md",
+    "Player Characters/Abby's Character.md",
+    "Places/Balistraria.md",
+    "Places/Hermit's Skull.md",
+    "NPCs/The Hermit.md",
+    "Josh Journals/Josh - Session 1.md",
+    "Josh Journals/Josh - Journal.md",
+    "Untitled.canvas",
+    "Balastraria.md",
     "Rooks",
     "Places",
     "NPCs",

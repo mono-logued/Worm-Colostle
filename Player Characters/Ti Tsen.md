@@ -4,7 +4,5 @@
 [Balistraria](<Balistraria>)
 
 
-
 **Journals**:
-- [Session 1](<Josh - Session 1.md>)
-- 
+- [Josh - Journal](<Josh - Journal>)
